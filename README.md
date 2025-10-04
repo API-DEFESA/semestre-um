@@ -46,6 +46,7 @@ Mapear o ecossistema Industrial Regional
 # Product Backlog
 
 | Rank | Prioridade | User Story                                                                                                                                                                                                     | Sprint |
+|------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 | 1    | Alta       | Como Cliente, quero no Python, mesclar dos documentos de exportação e importação das cidades de São José dos Campos e Região dos anos de 2021, 2022, 2023, 2024 e 2025.                                        | 1      |
 | 2    | Alta       | Como cliente, quero no Python, agrupar em um único documento todos dados de importação e exportação.                                                                                                           | 1      |
 | 3    | Alta       | Como cliente, quero no PowerBi, uma validação para quanto os dados de peso de todas as importação e exportação de 2021, 2022, 2023, 2024 e 2025.                                                               | 1      |
