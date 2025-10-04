@@ -45,13 +45,13 @@ Mapear o ecossistema Industrial Regional
 
 # Product Backlog
 
-| Rank | Prioridade | User Story                                                                                                                                                                                                     | Sprint |
+| Rank | Prioridade | Descrição                                                                                                                                                                                                      | Sprint |
 |------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 | 1    | Alta       | Como Cliente, quero no Python, mesclar dos documentos de exportação e importação das cidades de São José dos Campos e Região dos anos de 2021, 2022, 2023, 2024 e 2025.                                        | 1      |
 | 2    | Alta       | Como cliente, quero no Python, agrupar em um único documento todos dados de importação e exportação.                                                                                                           | 1      |
 | 3    | Alta       | Como cliente, quero no PowerBi, uma validação para quanto os dados de peso de todas as importação e exportação de 2021, 2022, 2023, 2024 e 2025.                                                               | 1      |
 | 4    | Alta       | Como cliente, quero no PowerBi, uma validação para quanto os dados de valor de todas as importação e exportação de 2021, 2022, 2023, 2024 e 2025.                                                              | 2      |
-| 5    | Média      | Como cliente, quero no PowerBi, algum template de dashboard para que seja possivel decidir qual visual será definido para o projeto.                                                                           | 1      |
+| 5    | Alta       | Como cliente, quero no PowerBi, algum template de dashboard para que seja possivel decidir qual visual será definido para o projeto.                                                                           | 1      |
 | 6    | Alta       | Como cliente, quero no PowerBI, um dashboard interativo para exportação e importação dos municipios de São José dos Campos e Região.                                                                           | 2      |
 | 7    | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos municípios com foco nas principais cargas movimentadas relacionadas à área de Defesa Aeroespacial.                                                  | 1      |
 | 8    | Média      | Como cliente, quero no PowerBi, que minhas perguntas sobre as exportação e importação sejam respondidas com gráficos e usando como base os dados oficiais fornecidos pelo site oficial.                        | 2      |
