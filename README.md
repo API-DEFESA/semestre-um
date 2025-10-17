@@ -47,14 +47,17 @@ Mapear o ecossistema Industrial Regional
 
 | Rank | Prioridade | Descrição                                                                                                                                                                                                      | Sprint |
 |------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| 1    | Alta       | Como Cliente, quero no Python, mesclar dos documentos de exportação e importação das cidades de São José dos Campos e Região dos anos de 2021, 2022, 2023, 2024 e 2025.                                        | 1      |
-| 2    | Alta       | Como cliente, quero no Python, agrupar em um único documento todos dados de importação e exportação.                                                                                                           | 1      |
-| 3    | Alta       | Como cliente, quero no PowerBi, uma validação para quanto os dados de peso de todas as importação e exportação de 2021, 2022, 2023, 2024 e 2025.                                                               | 1      |
-| 4    | Alta       | Como cliente, quero no PowerBi, uma validação para quanto os dados de valor de todas as importação e exportação de 2021, 2022, 2023, 2024 e 2025.                                                              | 2      |
-| 5    | Alta       | Como cliente, quero no PowerBi, algum template de dashboard para que seja possivel decidir qual visual será definido para o projeto.                                                                           | 1      |
-| 6    | Alta       | Como cliente, quero no PowerBI, um dashboard interativo para exportação e importação dos municipios de São José dos Campos e Região.                                                                           | 2      |
-| 7    | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos municípios com foco nas principais cargas movimentadas relacionadas à área de Defesa Aeroespacial.                                                  | 1      |
-| 8    | Média      | Como cliente, quero no PowerBi, que minhas perguntas sobre as exportação e importação sejam respondidas com gráficos e usando como base os dados oficiais fornecidos pelo site oficial.                        | 2      |
+| 1    | Alta       | Como Cliente, quero no Comex Stats, extrair os dados de exportação e importação de São José dos Campos e região de 2021 até 2025.                                        
+                | 1      |
+| 2    | Alta       | Como cliente, quero no Python, mesclar em um único documento os dados de exportação e importação das cidades de São José dos Campos e Região dos anos de 2021 até 2025.                                        | 1      |
+| 3    | Alta       | Como cliente, quero no Python, filtrar os dados de NCM's que interessam sobre Defesa Aeroespacial.                                                             
+                | 1      |
+| 4    | Alta       | Como cliente, quero no PowerBi, algum template de dashboard para que seja possivel decidir qual visual será definido para o projeto.                                                                           | 1      |
+| 5    | Alta       | Como cliente, quero no PowerBi, um dashboard interativo para exportação e importação dos municipios de São José dos Campos e Região.
+                | 1      |
+| 6    | Alta       | Como cliente, quero no PowerBI, conter no dashboard interativo os dados com filtros de "Anos, itens, munincípios e tipo de comércio".                                                                          | 1      |
+| 7    | Média      | Como cliente, quero no PowerBI, integração de mapas e gráficos interativos a partir do peso dos itens de cada região.                                                  
+                | 1      |
 
 
 
