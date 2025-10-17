@@ -47,9 +47,8 @@ Mapear o ecossistema Industrial Regional
 
 | Rank | Prioridade | Descrição                                                                                                                                                                                                      | Sprint |
 |------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| 1    | Alta       | Como Cliente, quero no Comex Stats, extrair os dados de exportação e importação de São José dos Campos e região de 2021 até 2025.                                        
-                | 1      |
-| 2    | Alta       | Como cliente, quero no Python, mesclar em um único documento os dados de exportação e importação das cidades de São José dos Campos e Região dos anos de 2021 até 2025.                                        | 1      |
+| 1    | Alta       | Como Cliente, quero no Comex Stats, extrair os dados de exportação e importação de São José dos Campos e região de 2021 até 2025.  | 1      |
+| 2    | Alta       | Como cliente, quero no Python, mesclar em um único documento os dados de exportação e importação das cidades de São José dos Campos e Região dos anos de 2021 até 2025. | 1      |
 | 3    | Alta       | Como cliente, quero no Python, filtrar os dados de NCM's que interessam sobre Defesa Aeroespacial.                                                             
                 | 1      |
 | 4    | Alta       | Como cliente, quero no PowerBi, algum template de dashboard para que seja possivel decidir qual visual será definido para o projeto.                                                                           | 1      |
