@@ -71,7 +71,7 @@ Mapear o ecossistema Industrial Regional
   
 # Registro das Sprints
 
-| Sprint            | Previsão   | Status   
+| Sprint            | Previsão   | Status   | Link |
 |-------------------|------------|----------|---------------|
 | 01                | 06/10/2025 | feito    | [📁](https://github.com/usuario/repositorio/tree/main/projeto)
 (https://github.com/API-DEFESA/semestre-um/tree/main/MVP/SPRINT-1)]
