@@ -54,13 +54,13 @@ Mapear o ecossistema Industrial Regional
 | 5    | Alta       | No PowerBi, um dashboard interativo para exportação e importação dos municipios de São José dos Campos e Região.                                    | 1      |
 | 6    | Alta       | No PowerBI, conter no dashboard interativo os dados com filtros de "Anos, itens, munincípios e tipo de comércio".                                   | 1      |
 | 7    | Alta       | No PowerBI, integração de mapas e gráficos interativos a partir do peso dos itens de cada região.                                                   | 1      | 
-| 8    | Alta       | No Word, criar um relatório técnico que contenha todas as informações de criação e                                        | 1      |
-| 9    | Alta       | No Python, mesclar em um único documento os dados de exportação e importação das cidades de São José dos Campos e Região dos anos de 2021 até 2025. | 1      |
-| 10   | Alta       | No Python, filtrar os dados de NCM's que interessam sobre Defesa Aeroespacial.                                                                      | 1      |
-| 11   | Alta       | No PowerBi, algum template de dashboard para que seja possivel decidir qual visual será definido para o projeto.                                    | 1      |
-| 12   | Alta       | No PowerBi, um dashboard interativo para exportação e importação dos municipios de São José dos Campos e Região.                                    | 1      |
-| 13   | Alta       | No PowerBI, conter no dashboard interativo os dados com filtros de "Anos, itens, munincípios e tipo de comércio".                                   | 1      |
-| 14   | Alta       | No PowerBI, integração de mapas e gráficos interativos a partir do peso dos itens de cada região.                                                   | 1      | 
+| 9    | Alta       | No GitHub, criar o MVP (Produto Mínimo Viável) para organização geral das sprints.                                                                  | 2      |
+| 10   | Alta       | Na Apresentação, acrescentar as melhorias solicitadas pelo cliente.                                                                                 | 2      |
+| 11   | Alta       |  | 1      |
+| 12   | Alta       |  | 1      |
+| 13   | Alta       |  | 1      |
+| 14   | Alta       |  | 1      | 
+| 8    | Alta       | No Word, criar um relatório técnico que contenha todas as informações de criação e progressão do projeto.                                           | 3      |
 
 
 
