@@ -54,13 +54,14 @@ Mapear o ecossistema Industrial Regional
 | 5    | Alta       | No PowerBi, um dashboard interativo para exportação e importação dos municipios de São José dos Campos e Região.                                    | 1      |
 | 6    | Alta       | No PowerBI, conter no dashboard interativo os dados com filtros de "Anos, itens, munincípios e tipo de comércio".                                   | 1      |
 | 7    | Alta       | No PowerBI, integração de mapas e gráficos interativos a partir do peso dos itens de cada região.                                                   | 1      | 
-| 9    | Alta       | No GitHub, criar o MVP (Produto Mínimo Viável) para organização geral das sprints.                                                                  | 2      |
-| 10   | Alta       | Na Apresentação, acrescentar as melhorias solicitadas pelo cliente.                                                                                 | 2      |
+| 8    | Alta       | No GitHub, criar o MVP (Produto Mínimo Viável) para organização geral das sprints.                                                                  | 2      |
+| 9    | Alta       | No PowerPoint, Criar um novo esboço para a segunda sprint.                                                                                          | 2      |
+| 10   | Alta       | Na Apresentação, acrescentar as melhorias propostas e solicitadas pelo cliente.                                                                     | 2      |
 | 11   | Alta       |  | 1      |
 | 12   | Alta       |  | 1      |
 | 13   | Alta       |  | 1      |
 | 14   | Alta       |  | 1      | 
-| 8    | Alta       | No Word, criar um relatório técnico que contenha todas as informações de criação e progressão do projeto.                                           | 3      |
+| 15    | Alta      | No Word, criar um relatório técnico que contenha todas as informações de criação e progressão do projeto.                                           | 3      |
 
 
 
@@ -72,7 +73,8 @@ Mapear o ecossistema Industrial Regional
 
 | Sprint            | Previsão   | Status   
 |-------------------|------------|----------|---------------|
-| 01                | 06/10/2025 | feito    | [!(https://shields.io/badge/style-plastic-green?logo=appveyor&style=plastic)(https://github.com/API-DEFESA/semestre-um/tree/main/MVP/SPRINT-1)]
+| 01                | 06/10/2025 | feito    | [📁](https://github.com/usuario/repositorio/tree/main/projeto)
+(https://github.com/API-DEFESA/semestre-um/tree/main/MVP/SPRINT-1)]
 | 
 | 02                | 10/11/2025 | a fazer  |               |
 | 03                | 24/11/2025 | a fazer  |               |
