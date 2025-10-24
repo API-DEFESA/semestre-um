@@ -47,13 +47,21 @@ Mapear o ecossistema Industrial Regional
 
 | Rank | Prioridade | Descrição                                                                                                                                                                                                      | Sprint |
 |------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| 1    | Alta       | Como Cliente, quero no Comex Stats, extrair os dados de exportação e importação de São José dos Campos e região de 2021 até 2025.                                       | 1      |
-| 2    | Alta       | Como cliente, quero no Python, mesclar em um único documento os dados de exportação e importação das cidades de São José dos Campos e Região dos anos de 2021 até 2025. | 1      |
-| 3    | Alta       | Como cliente, quero no Python, filtrar os dados de NCM's que interessam sobre Defesa Aeroespacial.                                                                      | 1      |
-| 4    | Alta       | Como cliente, quero no PowerBi, algum template de dashboard para que seja possivel decidir qual visual será definido para o projeto.                                    | 1      |
-| 5    | Alta       | Como cliente, quero no PowerBi, um dashboard interativo para exportação e importação dos municipios de São José dos Campos e Região.                                    | 1      |
-| 6    | Alta       | Como cliente, quero no PowerBI, conter no dashboard interativo os dados com filtros de "Anos, itens, munincípios e tipo de comércio".                                   | 1      |
-| 7    | Média      | Como cliente, quero no PowerBI, integração de mapas e gráficos interativos a partir do peso dos itens de cada região.                                                   | 1      |
+| 1    | Alta       | No Comex Stats, extrair os dados de exportação e importação de São José dos Campos e região de 2021 até 2025.                                       | 1      |
+| 2    | Alta       | No Python, mesclar em um único documento os dados de exportação e importação das cidades de São José dos Campos e Região dos anos de 2021 até 2025. | 1      |
+| 3    | Alta       | No Python, filtrar os dados de NCM's que interessam sobre Defesa Aeroespacial.                                                                      | 1      |
+| 4    | Alta       | No PowerBi, algum template de dashboard para que seja possivel decidir qual visual será definido para o projeto.                                    | 1      |
+| 5    | Alta       | No PowerBi, um dashboard interativo para exportação e importação dos municipios de São José dos Campos e Região.                                    | 1      |
+| 6    | Alta       | No PowerBI, conter no dashboard interativo os dados com filtros de "Anos, itens, munincípios e tipo de comércio".                                   | 1      |
+| 7    | Alta       | No PowerBI, integração de mapas e gráficos interativos a partir do peso dos itens de cada região.                                                   | 1      | 
+| 8    | Alta       | No Word, criar um relatório técnico que contenha todas as informações de criação e                                        | 1      |
+| 9    | Alta       | No Python, mesclar em um único documento os dados de exportação e importação das cidades de São José dos Campos e Região dos anos de 2021 até 2025. | 1      |
+| 10   | Alta       | No Python, filtrar os dados de NCM's que interessam sobre Defesa Aeroespacial.                                                                      | 1      |
+| 11   | Alta       | No PowerBi, algum template de dashboard para que seja possivel decidir qual visual será definido para o projeto.                                    | 1      |
+| 12   | Alta       | No PowerBi, um dashboard interativo para exportação e importação dos municipios de São José dos Campos e Região.                                    | 1      |
+| 13   | Alta       | No PowerBI, conter no dashboard interativo os dados com filtros de "Anos, itens, munincípios e tipo de comércio".                                   | 1      |
+| 14   | Alta       | No PowerBI, integração de mapas e gráficos interativos a partir do peso dos itens de cada região.                                                   | 1      | 
+
 
 
 
@@ -63,9 +71,9 @@ Mapear o ecossistema Industrial Regional
 # Registro das Sprints
 
 | Sprint            | Previsão   | Status   
-|-------------------|------------|----------|
-| 01                | 06/10/2025 | a fazer  | 
-| 02                | 24/10/2025 | a fazer  |
-| 03                | 14/11/2025 | a fazer  |
-| Feira de Soluções | 04/12/2025 | a fazer  |
+|-------------------|------------|----------|---------------|
+| 01                | 06/10/2025 | feito    |(https://github.com/API-DEFESA/semestre-um/tree/main/MVP/SPRINT-1)| 
+| 02                | 10/11/2025 | a fazer  |               |
+| 03                | 24/11/2025 | a fazer  |               |
+| Feira de Soluções | 04/12/2025 | a fazer  |               |
 
