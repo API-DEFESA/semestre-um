@@ -57,11 +57,6 @@ Mapear o ecossistema Industrial Regional
 | 8    | Alta       | No GitHub, criar o MVP (Produto Mínimo Viável) para organização geral das sprints.                                                                  | 2      |
 | 9    | Alta       | No PowerPoint, Criar um novo esboço para a segunda sprint.                                                                                          | 2      |
 | 10   | Alta       | Na Apresentação, acrescentar as melhorias propostas e solicitadas pelo cliente.                                                                     | 2      |
-| 11   | Alta       |  | 1      |
-| 12   | Alta       |  | 1      |
-| 13   | Alta       |  | 1      |
-| 14   | Alta       |  | 1      | 
-| 15    | Alta      | No Word, criar um relatório técnico que contenha todas as informações de criação e progressão do projeto.                                           | 3      |
 
 
 
