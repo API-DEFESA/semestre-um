@@ -47,17 +47,17 @@ Mapear o ecossistema Industrial Regional
 
 | Rank | Prioridade | Descrição                                                                                                                                                                                                      | Sprint |
 |------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| 1    | Alta       | Como cliente, quero no Comex Stats, extrair os dados de exportação e importação de São José dos Campos e região de 2021 até 2025.                                       | 1      |
-| 2    | Alta       | Como cliente, quero no Python, mesclar em um único documento os dados de exportação e importação das cidades de São José dos Campos e Região dos anos de 2021 até 2025. | 1      |
-| 3    | Alta       | Como cliente, quero no Python, filtrar os dados de NCM's que interessam sobre Defesa Aeroespacial.                                                                      | 1      |
-| 4    | Alta       | Como cliente, quero no PowerBi, montar um template de dashboard para que seja possivel decidir qual visual será definido para o projeto.                                | 1      |
-| 5    | Alta       | Como cliente, quero no PowerBi, um dashboard interativo para exportação e importação dos municipios de São José dos Campos e Região.                                    | 1      |
-| 6    | Alta       | Como cliente, quero no PowerBI, conter no dashboard interativo os dados com filtros de "Anos, itens, munincípios e tipo de comércio".                                   | 1      |
-| 7    | Alta       | Como cliente, quero no PowerBI, integração de mapas e gráficos interativos a partir do peso dos itens de cada região.                                                   | 1      | 
-| 8    | Alta       | Como cliente, quero no GitHub, criar o MVP (Produto Mínimo Viável) para organização geral das sprints.                                                                  | 2      |
-| 9    | Alta       | Como cliente, quero no PowerPoint, Criar um novo esboço para a segunda sprint.                                                                                          | 2      |
-| 10   | Alta       | Como cliente, quero na Apresentação, acrescentar as melhorias propostas e solicitadas pelo cliente.                                                                     | 2      |
-| 11   | Alta       | Como cliente, quero no PowerBi, Adicionar a Média do Valor FOB por produto.                                                                                             | 2      |
+| 1    | Alta       | Como tomador de decisões em políticas públicas, quero no Comex Stats, extrair os dados de exportação e importação de São José dos Campos e região de 2021 até 2025.                                       | 1      |
+| 2    | Alta       | Como tomador de decisões em políticas públicas, quero no Python, mesclar em um único documento os dados de exportação e importação das cidades de São José dos Campos e Região dos anos de 2021 até 2025. | 1      |
+| 3    | Alta       | Como tomador de decisões em políticas públicas, quero no Python, filtrar os dados de NCM's que interessam sobre Defesa Aeroespacial.                                                                      | 1      |
+| 4    | Alta       | Como tomador de decisões em políticas públicas, quero no PowerBi, montar um template de dashboard para que seja possivel decidir qual visual será definido para o projeto.                                | 1      |
+| 5    | Alta       | Como tomador de decisões em políticas públicas, quero no PowerBi, um dashboard interativo para exportação e importação dos municipios de São José dos Campos e Região.                                    | 1      |
+| 6    | Alta       | Como tomador de decisões em políticas públicas, quero no PowerBI, conter no dashboard interativo os dados com filtros de "Anos, itens, munincípios e tipo de comércio".                                   | 1      |
+| 7    | Alta       | Como tomador de decisões em políticas públicas, quero no PowerBI, integração de mapas e gráficos interativos a partir do peso dos itens de cada região.                                                   | 1      | 
+| 8    | Alta       | Como tomador de decisões em políticas públicas, quero no GitHub, criar o MVP (Produto Mínimo Viável) para organização geral das sprints.                                                                  | 2      |
+| 9    | Alta       | Como tomador de decisões em políticas públicas, quero no PowerPoint, Criar um novo esboço para a segunda sprint.                                                                                          | 2      |
+| 10   | Alta       | Como tomador de decisões em políticas públicas, quero na Apresentação, acrescentar as melhorias propostas e solicitadas pelo cliente.                                                                     | 2      |
+| 11   | Alta       | Como tomador de decisões em políticas públicas, quero no PowerBi, Adicionar a Média do Valor FOB por produto.                                                                                             | 2      |
 
 
 
