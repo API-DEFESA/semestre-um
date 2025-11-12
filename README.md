@@ -55,10 +55,14 @@ Mapear o ecossistema Industrial Regional
 | 6    | Alta       | Como tomador de decisões em políticas públicas, quero no PowerBI, conter no dashboard interativo os dados com filtros de "Anos, itens, munincípios e tipo de comércio".                                   | 1      |
 | 7    | Alta       | Como tomador de decisões em políticas públicas, quero no PowerBI, integração de mapas e gráficos interativos a partir do peso dos itens de cada região.                                                   | 1      | 
 | 8    | Alta       | Como tomador de decisões em políticas públicas, quero no GitHub, criar o MVP (Produto Mínimo Viável) para organização geral das sprints.                                                                  | 2      |
-| 9    | Alta       | Como tomador de decisões em políticas públicas, quero no PowerPoint, Criar um novo esboço para a segunda sprint.                                                                                          | 2      |
+| 9    | Alta       | Como tomador de decisões em políticas públicas, quero no PowerPoint, criar um novo esboço para a segunda sprint.                                                                                          | 2      |
 | 10   | Alta       | Como tomador de decisões em políticas públicas, quero na Apresentação, acrescentar as melhorias propostas e solicitadas pelo cliente.                                                                     | 2      |
-| 11   | Alta       | Como tomador de decisões em políticas públicas, quero no PowerBi, Adicionar a Média do Valor FOB por produto.                                                                                             | 2      |
-
+| 11   | Alta       | Como tomador de decisões em políticas públicas, quero no PowerBi, adicionar a Média do Valor FOB por produto.                                                                                             | 2      |
+| 12   | Alta       | Como tomador de decisões em políticas públicas, quero no PowerBi, propor um design final para o dashboard.                                                                                                | 3      |
+| 13   | Alta       | Como tomador de decisões em políticas públicas, quero no PowerBi, a separação das telas de importação e exportação, para maior detalhamento e melhor visualização.                                        | 3      |
+| 14   | Alta       | Como tomador de decisões em políticas públicas, quero no PowerBi, a implementação de gráficos de linha dos valores FOB por ano.                                                                           | 3      |
+| 15   | Alta       | Como tomador de decisões em políticas públicas, quero no PowerBi, a descrição de dados a respeito dos países que mais importaram e exportaram dentro da cadeia produtiva de Defesa Aeroespacial.          | 3      |
+| 16   | Alta       | Como tomador de decisões em políticas públicas, quero na Apresentação, as respostas das perguntas levantadas sobre o projeto.                                                                             | 3      |
 
 
 
@@ -70,7 +74,7 @@ Mapear o ecossistema Industrial Regional
 | Sprint            | Previsão   | Status   | Link |
 |-------------------|------------|----------|---------------|
 | 01                | 06/10/2025 | feito    | [📁 Sprint 1](https://github.com/API-DEFESA/semestre-um/tree/main/MVP/SPRINT-1)      | 
-| 02                | 10/11/2025 | a fazer  | [📁 Sprint 2](https://github.com/API-DEFESA/semestre-um/tree/main/MVP/SPRINT-2)      |
+| 02                | 10/11/2025 | feito    | [📁 Sprint 2](https://github.com/API-DEFESA/semestre-um/tree/main/MVP/SPRINT-2)      |
 | 03                | 24/11/2025 | a fazer  | [📁 Sprint 3](https://github.com/API-DEFESA/semestre-um/tree/main/MVP/SPRINT-3)      |
 | Feira de Soluções | 04/12/2025 | a fazer  |               |
 
