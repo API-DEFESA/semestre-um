@@ -61,8 +61,9 @@ Mapear o ecossistema Industrial Regional
 | 12   | Alta       | Como tomador de decisões em políticas públicas, quero no PowerBi, propor um design final para o dashboard.                                                                                                | 3      |
 | 13   | Alta       | Como tomador de decisões em políticas públicas, quero no PowerBi, a separação das telas de importação e exportação, para maior detalhamento e melhor visualização.                                        | 3      |
 | 14   | Alta       | Como tomador de decisões em políticas públicas, quero no PowerBi, a implementação de gráficos de linha dos valores FOB por ano.                                                                           | 3      |
-| 15   | Alta       | Como tomador de decisões em políticas públicas, quero no PowerBi, a descrição de dados a respeito dos países que mais importaram e exportaram dentro da cadeia produtiva de Defesa Aeroespacial.          | 3      |
+| 15   | Alta       | Como tomador de decisões em políticas públicas, quero no PowerBi, a descrição de dados a respeito dos países parceiros que mais importaram e exportaram dentro da cadeia produtiva de Defesa Aeroespacial.| 3      |
 | 16   | Alta       | Como tomador de decisões em políticas públicas, quero na Apresentação, as respostas das perguntas levantadas sobre o projeto.                                                                             | 3      |
+
 
 
 
