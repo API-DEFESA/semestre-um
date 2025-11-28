@@ -76,6 +76,6 @@ Mapear o ecossistema Industrial Regional
 |-------------------|------------|----------|---------------|
 | 01                | 06/10/2025 | feito    | [📁 Sprint 1](https://github.com/API-DEFESA/semestre-um/tree/main/MVP/SPRINT-1)      | 
 | 02                | 10/11/2025 | feito    | [📁 Sprint 2](https://github.com/API-DEFESA/semestre-um/tree/main/MVP/SPRINT-2)      |
-| 03                | 24/11/2025 | a fazer  | [📁 Sprint 3](https://github.com/API-DEFESA/semestre-um/tree/main/MVP/SPRINT-3)      |
+| 03                | 24/11/2025 | feito    | [📁 Sprint 3](https://github.com/API-DEFESA/semestre-um/tree/main/MVP/SPRINT-3)      |
 | Feira de Soluções | 04/12/2025 | a fazer  |               |
 
